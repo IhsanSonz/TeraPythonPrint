@@ -1,0 +1,1 @@
+pyinstaller --onefile -i github-logo.ico -n TeraPythonPrint --hide-console hide-early main.py
